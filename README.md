@@ -1,2 +1,2 @@
-# Exercicios_e_Trabalhos_ColegioTécnico_de_CampinasUnicamp
+# Exercicios E Trabalhos do COTUCA(Colégio Técnico de Campinas - Unicamp)
 Trabalhos e exercicios do cotuca
