@@ -1,0 +1,44 @@
+
+
+
+2.1. Declare as variáveis e lhes atribua valores para exibir o valor de x usando os detalhes
+abaixo:
+x = y + (a * b / c)
+y = a + 151
+b = c * (144 + y)
+a = 10
+c = 7
+pedir ao usuário que informe o valor de a
+
+
+2.2. Peça ao usuário que digite quatro notas bimestrais, calcule e mostre sua média aritmética.
+
+2.3. Converta um valor digitado em metros para centímetros e exiba o resultado.
+
+2.4. Peça o raio de um círculo, calcule e mostre sua área.
+
+
+2.5. Pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e
+mostre o total do seu salário no referido mês.
+
+
+2.6. Peça ao usuário que digite dois números inteiros e um número real. Calcule e mostre:
+o o produto do dobro do primeiro com metade do segundo.
+o a soma do triplo do primeiro com o terceiro.
+o o terceiro elevado ao cubo.
+
+
+2.7. Tendo como dados de entrada a altura (h) de uma pessoa do gênero feminino, construa um
+programa que calcule seu peso ideal, utilizando a seguinte fórmula: (62.1 x h) - 44.7
+
+
+2.8. Leia dois números inteiros, calcule e exiba a soma dos valores, a subtração do primeiro
+valor do segundo, a multiplicação dos dois, o resultado da divisão real entre eles, o
+resultado da divisão inteira entre eles, o valor do primeiro elevado ao segundo e o resto da
+divisão desse cálculo anterior pelo segundo valor digitado.
+
+
+2.9. Uma loja de tintas deseja um programa que peça o tamanho em metros quadrados de uma
+área a ser pintada. Considere que a cobertura da tinta é de 1 litro para cada 3 metros
+quadrados e que a tinta é vendida em latas de 18 litros, que custam R$ 80,00. Informe ao
+usuário a quantidades de latas de tinta a serem compradas e o preço total.
