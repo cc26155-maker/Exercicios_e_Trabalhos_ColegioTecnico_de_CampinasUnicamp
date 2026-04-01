@@ -1,0 +1,2 @@
+# Exercicios_e_Trabalhos_ColegioTécnico_de_CampinasUnicamp
+Trabalhos e exercicios do cotuca
